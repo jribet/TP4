@@ -20,6 +20,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     cout<<"Test sous netbean"<<endl ;
+    cout<<"Deuxieme test sous netbean"<<endl;
     return 0;
 }
 
